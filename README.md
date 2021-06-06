@@ -5,7 +5,7 @@ So, at the 11-th iteration (or less than the 11-th iteration, which depends on b
 address sequence can repeats.data (hex) information in a table format at the end of 2nd repetition. 
 
 The user can choose the following cache organization:
-
+```
 1. Fully associative cache (Marks: 6)
 	a. Block size
 		i. 1-word
@@ -26,3 +26,4 @@ The user can choose the following cache organization:
 	b. Replacement algorithms
 		i. FIFO
 		ii. LRU
+```
