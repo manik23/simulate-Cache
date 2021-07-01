@@ -12,7 +12,7 @@ using namespace std;
 #define CACHE_SIZE (16)
 /*	 0-> Direct
 	 1-> Fully Associative
-
+	 2-> Set Associative
 */
 
 #define CACHE_TYPE  (2)
